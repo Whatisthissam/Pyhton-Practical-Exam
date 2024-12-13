@@ -1,0 +1,6 @@
+str="racecar"
+str2=str[::-1]
+if (str ==str2):
+    print("its an pallindrom")
+else:
+    print("its not an pallindrom")
