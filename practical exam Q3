@@ -1,0 +1,3 @@
+def variable_length_sum(*args):
+    return sum(args)
+print("sum of numbers:", variable_length_sum(1, 2, 3, 4, 5))
